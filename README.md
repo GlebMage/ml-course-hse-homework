@@ -1,5 +1,5 @@
 # ml-course-hse-homework
-My homeworks from the course "Machine learning 1" in NRU HSE
+My homework from the course "Machine learning 1" in NRU HSE
 
 
 ## hw2
